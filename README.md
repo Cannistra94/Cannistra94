@@ -6,4 +6,6 @@ I'm a PhD student in Biomarkers of Chronic and Complex Diseases with with a focu
 - Extensive expertise in the implementation and interpretation of statistical models.
 - Passionate about expanding my expertise in state-of-the-art Deep Learning techniques and cloud computing
 
+Reach out here: mattiacannistra@gmail.com
+
 
