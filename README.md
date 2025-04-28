@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Cannistra94/Cannistra94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mattia!👋
 
 I'm a PhD student in Biomarkers of Chronic and Complex Diseases with with a focus on applying Artificial Intelligence (AI) to biomedical data. 
 - My work primarily involves neuroimaging modalities such as PET, MRI (including T1-weighted, T2 FLAIR, DTI, and fMRI), and CT, with a particular emphasis on developing Machine Learning (ML) and Deep Learning (DL) algorithms.
