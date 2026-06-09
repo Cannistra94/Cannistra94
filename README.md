@@ -1,9 +1,6 @@
 Hi, I'm Mattia!👋
 
-I'm a Postdoctoral Research Fellow at Harvard Medical School in Biomarkers of Chronic and Complex Diseases with a focus on applying Artificial Intelligence (AI) to biomedical data. 
-- My work primarily involves the analysis of various data types, including neuroimaging modalities such as PET, MRI (T1-weighted, T2 FLAIR, DTI, and fMRI), CT, along with Magnetoencephalography/ Electroencephalography data (M/EEG), and genetic data, with a particular emphasis on developing Machine Learning (ML) and Deep Learning (DL) algorithms for predictive modeling. 
-- Extensive expertise in applying preprocessing procedures, feature engineering, and multimodal data integration to extract meaningful patterns from complex datasets using ML, DL and statical models.
-- Several projects have involved the processing and analysis of diverse data sources, including imaging, genetic, M/EEG, and electronic health records (EHR) data, which I have utilized across multiple research projects for large-scale, multimodal analysis.
+I'm a Postdoctoral Research Fellow at Harvard Medical School. My work primarily involves the end-to-end management of data pipelines, including extraction, cleaning & harmonization, model selection and implementation, model diagnostics and data visualization and reporting. Data analysis techniques include advanced statistical modeling, Machine Learning annd Deep Learning methodologies with ongoing learning on generative AI techniques and their integration into software workflows.
 
 I'd be happy to connect!
 
